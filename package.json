@@ -1,0 +1,25 @@
+{
+  "name": "my_own_details_servicies",
+  "version": "1.0.0",
+  "description": "It is backend restfull api which provide my own comple profile details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon './src/app.js' "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naman-456/my_own_details_servicies.git"
+  },
+  "keywords": [],
+  "author": "Naman Mamodia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naman-456/my_own_details_servicies/issues"
+  },
+  "homepage": "https://github.com/naman-456/my_own_details_servicies#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2"
+  }
+}
