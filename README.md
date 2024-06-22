@@ -1,2 +1,2 @@
 # my_own_details_servicies
-It is backend restfull api which provide my own comple profile details
+It is dummy restfull API which filters employees of a company according to emp_id
